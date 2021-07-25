@@ -1,0 +1,12 @@
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\CONFIG.INI
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\sagetools.exe
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\sagetools.pdb
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\sagetools.xml
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\MadMilkman.Ini.dll
+E:\SRC\VB.NET\sagetools\sagetools\bin\x86\Debug\MadMilkman.Ini.xml
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.Form1.resources
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.Resources.resources
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.vbproj.GenerateResource.Cache
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.exe
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.xml
+E:\SRC\VB.NET\sagetools\sagetools\obj\x86\Debug\sagetools.pdb

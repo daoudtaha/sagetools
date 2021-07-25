@@ -1,0 +1,13 @@
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\saptools.exe
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\saptools.pdb
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\saptools.xml
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.Form1.resources
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.Resources.resources
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.vbproj.GenerateResource.Cache
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.exe
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.xml
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.pdb
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\CONFIG.INI
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\MadMilkman.Ini.dll
+E:\SRC\VB.NET\saptools\saptools\bin\Debug\MadMilkman.Ini.xml
+E:\SRC\VB.NET\saptools\saptools\obj\Debug\saptools.vbprojResolveAssemblyReference.cache
